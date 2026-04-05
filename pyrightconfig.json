@@ -1,0 +1,9 @@
+{
+    "venvPath": ".",
+    "venv": ".venv",
+    "extraPaths": [
+        ".",
+        "/usr/lib/python3/dist-packages",
+        "/usr/local/lib/python3.10/dist-packages"
+    ]
+}

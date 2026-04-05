@@ -1,0 +1,15 @@
+.venv/
+metrics/
+__pycache__/
+*.py[cod]
+*.so
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+.vscode/
+.idea/
+.DS_Store
