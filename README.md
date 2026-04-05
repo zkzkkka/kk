@@ -68,7 +68,3 @@ h2 iperf -s &
 h1 iperf -c 10.0.0.2 -t 20
 ```
 
-## 说明
-
-- `.venv/`、缓存文件和编辑器配置不会上传到 GitHub。
-- `checkpoints/`、`metrics/` 和实验结果图片会保留，方便展示毕业设计过程与结果。
